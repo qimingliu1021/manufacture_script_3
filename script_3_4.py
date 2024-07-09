@@ -112,20 +112,23 @@ def get_product_dic(driver, manufacture_name):
     print(f"at page {page_count}......")
     with open(f"{logs_dir}/products_{now}.txt", "a") as f: 
       f.write(f"On page {page_count}... \n")
-    soup_check = BeautifulSoup(driver.page_source, 'html.parser')
-    if not soup_check.find('div', class_="no-data common"): 
-      for point_class in stopping_point: 
-        element = wait.until(EC.element_to_be_clickable((By.CLASS_NAME, point_class)))
-        ActionChains(driver).move_to_element(element).perform()
-        time.sleep(1)
-    else: 
-      with open(f"{logs_dir}/products_{now}.txt", "a") as f: 
-        f.write("No stopping point at this page.")  
-      break
+
+    for point_class in stopping_point: 
+      element = wait.until(EC.element_to_be_clickable((By.CLASS_NAME, point_class)))
+      ActionChains(driver).move_to_element(element).perform()
+      time.sleep(1)
+
     with open(f"{logs_dir}/products_{now}.txt", "a") as f: 
       f.write(f"next_button is like: {next_button}")
     time.sleep(2)
     next_button.click()
+    next_button = driver.find_element(By.CLASS_NAME, "next-btn.next-btn-normal.next-btn-medium.next-pagination-item.next")
+    soup_check = BeautifulSoup(driver.page_source, 'html.parser')
+    if soup_check.find('div', class_="no-data common") or not next_button.is_enabled():
+      print("reached a page having page count but no content")
+      with open(f"{logs_dir}/products_{now}.txt", "a") as f: 
+        f.write(f"reached a page having page count but no content \n")
+      break
     soup = BeautifulSoup(driver.page_source, 'html.parser')
     if soup.find('div', class_="component-product-list"):
       component_product_list = soup.find('div', class_="component-product-list")
@@ -174,8 +177,6 @@ def get_product_dic(driver, manufacture_name):
             f.write(f"product_{product_count} price: {product_price}\n")
             f.write(f"product_{product_count} shipping: {product_shipping}\n")
             f.write(f"product_{product_count} MOQ: {product_MOQ} \n \n")
-
-    next_button = driver.find_element(By.CLASS_NAME, "next-btn.next-btn-normal.next-btn-medium.next-pagination-item.next")
   
   driver.quit()
 
