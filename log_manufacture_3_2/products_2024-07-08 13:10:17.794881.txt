@@ -1,0 +1,2 @@
+existing column info: <_csv.reader object at 0x10497bd10> 
+Manufacture name: Dongguan Ruili Fashion Co., Ltd.: 

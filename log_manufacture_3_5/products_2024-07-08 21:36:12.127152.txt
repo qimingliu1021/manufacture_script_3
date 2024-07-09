@@ -1,0 +1,148 @@
+existing column info: <_csv.reader object at 0x105cb82e0> 
+Manufacture name: Shenzhen Becarin Apparel Co., Ltd.: 
+On page 1... 
+next_button is like: <selenium.webdriver.remote.webelement.WebElement (session="ad6f877c3840f0cab174a41f188d27a5", element="f.94303F7551F5AD06727E3D7F10F5F52F.d.8399585A2E1F34892742E78E6EDD2066.e.51")>Getting image Custom Swimwear Beachwear Sexy ECO Friendly Bikini Set for Women Adjustable Straps V Neck Back Hook ... 
+success! 
+ 
+product_1 name: Custom Swimwear Beachwear Sexy ECO Friendly Bikini Set for Women Adjustable Straps V Neck Back Hook
+product_1 img link: https://s.alicdn.com/@sc04/kf/Hf81fcaa25fd6441093fa2f2624fe0ea1X/Custom-Swimwear-Beachwear-Sexy-ECO-Friendly-Bikini.png?hasNWGrade=1
+product_1 price: $8.00 - $12.00
+product_1 shipping: Shipping: $0.00/set
+product_1 MOQ: 50 sets 
+ 
+Getting image Customized Women Thong Bikini Set Floral Print Swimwear Summer Field Tall Triangle Bikini  ECO Friendly Fabric ... 
+success! 
+ 
+product_2 name: Customized Women Thong Bikini Set Floral Print Swimwear Summer Field Tall Triangle Bikini  ECO Friendly Fabric
+product_2 img link: https://s.alicdn.com/@sc04/kf/Hfcf0a3c2b027499eb5319be98dd5121fQ/Customized-Women-Thong-Bikini-Set-Floral-Print.png?hasNWGrade=1
+product_2 price: $8.00 - $12.00
+product_2 shipping: Shipping: $0.00/set
+product_2 MOQ: 50 sets 
+ 
+Getting image Custom Women's Triangle Bikini  Two Piece Sexy Swimsuit String Swimwear Beachwear Plus Size  Bathing Suit ... 
+success! 
+ 
+product_3 name: Custom Women's Triangle Bikini  Two Piece Sexy Swimsuit String Swimwear Beachwear Plus Size  Bathing Suit
+product_3 img link: https://s.alicdn.com/@sc04/kf/H4eaa3121409f483ca863f8f84b42bb0c3/Custom-Women-s-Triangle-Bikini-Two-Piece.png?hasNWGrade=1
+product_3 price: $8.00 - $12.00
+product_3 shipping: Shipping: $0.00/set
+product_3 MOQ: 50 sets 
+ 
+Getting image Customized Women Thong Bikini Women's Swimsuit Knotted String Triangle Bikini High Cut Cheeky Bikini Set ... 
+success! 
+ 
+product_4 name: Customized Women Thong Bikini Women's Swimsuit Knotted String Triangle Bikini High Cut Cheeky Bikini Set
+product_4 img link: https://s.alicdn.com/@sc04/kf/H4768f934f3054aedb69f4e1d49fb42cbh/Customized-Women-Thong-Bikini-Women-s-Swimsuit.png?hasNWGrade=1
+product_4 price: $8.00 - $12.00
+product_4 shipping: Shipping: $0.00/set
+product_4 MOQ: 50 sets 
+ 
+Getting image Custom Swimwear Manufacturer Swimwear Beachwear Sexy Swimwear Triangle Bikini Sets Girls in Bikini ... 
+success! 
+ 
+product_5 name: Custom Swimwear Manufacturer Swimwear Beachwear Sexy Swimwear Triangle Bikini Sets Girls in Bikini
+product_5 img link: https://s.alicdn.com/@sc04/kf/H9221db64dc13477f854e45ec0a52d3a4c/Custom-Swimwear-Manufacturer-Swimwear-Beachwear-Sexy-Swimwear.png?hasNWGrade=1
+product_5 price: $8.00 - $12.00
+product_5 shipping: Shipping: $0.00/set
+product_5 MOQ: 50 sets 
+ 
+Getting image Custom Swimwear Manufacturer Floral Print Swimwear Triangle Bikini Sets ECO Friendly BikiniCustom Label ... 
+success! 
+ 
+product_6 name: Custom Swimwear Manufacturer Floral Print Swimwear Triangle Bikini Sets ECO Friendly BikiniCustom Label
+product_6 img link: https://s.alicdn.com/@sc04/kf/He6197731ab4243738c379e0ef78db4234/Custom-Swimwear-Manufacturer-Floral-Print-Swimwear-Triangle.png?hasNWGrade=1
+product_6 price: $8.00 - $12.00
+product_6 shipping: Shipping: $0.00/set
+product_6 MOQ: 50 sets 
+ 
+Getting image Custom Swimwear Manufacturer Floral Print Swimwear Triangle Bikini Sets Custom Label ... 
+success! 
+ 
+product_7 name: Custom Swimwear Manufacturer Floral Print Swimwear Triangle Bikini Sets Custom Label
+product_7 img link: https://s.alicdn.com/@sc04/kf/Hef0c600eac914012b820e4b9c670ea572/Custom-Swimwear-Manufacturer-Floral-Print-Swimwear-Triangle.png?hasNWGrade=1
+product_7 price: $8.00 - $12.00
+product_7 shipping: Shipping: $0.00/set
+product_7 MOQ: 50 sets 
+ 
+Getting image Customized Women Thong Bikini Set Floral Print Swimwear Summer Field Tall Triangle Bikini  ECO Friendly Fabric ... 
+success! 
+ 
+product_8 name: Customized Women Thong Bikini Set Floral Print Swimwear Summer Field Tall Triangle Bikini  ECO Friendly Fabric
+product_8 img link: https://s.alicdn.com/@sc04/kf/H1853db020886488c8d95d8a7103944f2n/Customized-Women-Thong-Bikini-Set-Floral-Print.jpeg?hasNWGrade=1
+product_8 price: $8.00 - $12.00
+product_8 shipping: Shipping: $0.00/set
+product_8 MOQ: 50 sets 
+ 
+Getting image Custom Women's Triangle Bikini  Two Piece Sexy Swimsuit String Swimwear Beachwear Plus Size Tie Side Bathing Suit ... 
+success! 
+ 
+product_9 name: Custom Women's Triangle Bikini  Two Piece Sexy Swimsuit String Swimwear Beachwear Plus Size Tie Side Bathing Suit
+product_9 img link: https://s.alicdn.com/@sc04/kf/Hde62cb214f344b20a6e565a8fef6d8cfX/Custom-Women-s-Triangle-Bikini-Two-Piece.jpeg?hasNWGrade=1
+product_9 price: $8.00 - $12.00
+product_9 shipping: Shipping: $0.00/set
+product_9 MOQ: 50 sets 
+ 
+Getting image Custom Swimwear and Logo Women Bikinis & Beachwear Plus Size Micro Bikini Girls in Bikini Swimwear Beachwear Sexy ... 
+success! 
+ 
+product_10 name: Custom Swimwear and Logo Women Bikinis & Beachwear Plus Size Micro Bikini Girls in Bikini Swimwear Beachwear Sexy
+product_10 img link: https://s.alicdn.com/@sc04/kf/H2dd0b4818e424d10b7c96f7f59d9e872W/Custom-Swimwear-and-Logo-Women-Bikinis-Beachwear.jpeg?hasNWGrade=1
+product_10 price: $8.00 - $12.00
+product_10 shipping: Shipping: $0.00/set
+product_10 MOQ: 50 sets 
+ 
+Getting image Customized Women Thong Bikini Set Triangle String Sexy  ECO Friendly Bikini Swimwear Beachwear Plus Size ... 
+success! 
+ 
+product_11 name: Customized Women Thong Bikini Set Triangle String Sexy  ECO Friendly Bikini Swimwear Beachwear Plus Size
+product_11 img link: https://s.alicdn.com/@sc04/kf/H726327f2beb14a6fa4db25eeb358e749U/Customized-Women-Thong-Bikini-Set-Triangle-String.jpeg?hasNWGrade=1
+product_11 price: $8.00 - $12.00
+product_11 shipping: Shipping: $0.00/set
+product_11 MOQ: 50 sets 
+ 
+Getting image Customized Women Thong Bikini Set Triangle String Sexy Ruched Bathing Suit ECO Friendly Bikini ... 
+success! 
+ 
+product_12 name: Customized Women Thong Bikini Set Triangle String Sexy Ruched Bathing Suit ECO Friendly Bikini
+product_12 img link: https://s.alicdn.com/@sc04/kf/Hb36b3494527d43d4a2fef3771c787be4o/Customized-Women-Thong-Bikini-Set-Triangle-String.jpeg?hasNWGrade=1
+product_12 price: $8.00 - $12.00
+product_12 shipping: Shipping: $0.00/set
+product_12 MOQ: 50 sets 
+ 
+Getting image Custom Swimwear Manufacturer Girls in Bikini High-Waisted Bikini ECO Friendly Bikini ... 
+success! 
+ 
+product_13 name: Custom Swimwear Manufacturer Girls in Bikini High-Waisted Bikini ECO Friendly Bikini
+product_13 img link: https://s.alicdn.com/@sc04/kf/Hb1745a7cb6d24a84b93018b171c7c768r/Custom-Swimwear-Manufacturer-Girls-in-Bikini-High.png?hasNWGrade=1
+product_13 price: $8.00 - $12.00
+product_13 shipping: Shipping: $0.00/set
+product_13 MOQ: 50 sets 
+ 
+Getting image Custom Swimwear Manufacturer Floral Print Swimwear Triangle Bikini Sets ECO Friendly BikiniCustom Label ... 
+success! 
+ 
+product_14 name: Custom Swimwear Manufacturer Floral Print Swimwear Triangle Bikini Sets ECO Friendly BikiniCustom Label
+product_14 img link: https://s.alicdn.com/@sc04/kf/H31bb8457620644f3adf0c0ed0e1b42f40/Custom-Swimwear-Manufacturer-Floral-Print-Swimwear-Triangle.png?hasNWGrade=1
+product_14 price: $8.00 - $12.00
+product_14 shipping: Shipping: $0.00/set
+product_14 MOQ: 50 sets 
+ 
+Getting image Customized Women Thong Bikini Set Triangle String Sexy  ECO Friendly Fabric Swimwear Beachwear Sexy Casual ... 
+success! 
+ 
+product_15 name: Customized Women Thong Bikini Set Triangle String Sexy  ECO Friendly Fabric Swimwear Beachwear Sexy Casual
+product_15 img link: https://s.alicdn.com/@sc04/kf/H0bd193344b754d54bf61970c4f5704f2Z/Customized-Women-Thong-Bikini-Set-Triangle-String.jpeg?hasNWGrade=1
+product_15 price: $8.00 - $12.00
+product_15 shipping: Shipping: $0.00/set
+product_15 MOQ: 50 sets 
+ 
+Getting image Custom ECO Friendly Bikini Hot Girl New Design Bikini Women Swimsuit Bikini Set Textured Swimwear ... 
+success! 
+ 
+product_16 name: Custom ECO Friendly Bikini Hot Girl New Design Bikini Women Swimsuit Bikini Set Textured Swimwear
+product_16 img link: https://s.alicdn.com/@sc04/kf/H7e97d0d8d61b4ebfa586b5737653bd11l/Custom-ECO-Friendly-Bikini-Hot-Girl-New.jpeg?hasNWGrade=1
+product_16 price: $8.00 - $12.00
+product_16 shipping: Shipping: $0.00/set
+product_16 MOQ: 50 sets 
+ 
+On page 2... 

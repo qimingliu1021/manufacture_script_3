@@ -1,0 +1,10 @@
+existing column info: <_csv.reader object at 0x101ea3370> 
+Skipped Hangzhou Tao Import & Export Co., Ltd. , visit https://taoapparel.en.alibaba.com/factory.html 
+ 
+ Skipped Guangzhou Xinlilai Apparel Industry Co., Ltd. , visit https://gzxinlilai.en.alibaba.com/factory.html 
+ 
+ Skipped Jiangyin Yoyoung Apparel Co., Ltd. , visit https://yoyoung-apparel.en.alibaba.com/factory.html 
+ 
+ Skipped Yiwu Maxine Trading Co., Ltd. , visit https://cnmaxine.en.alibaba.com/factory.html 
+ 
+ 

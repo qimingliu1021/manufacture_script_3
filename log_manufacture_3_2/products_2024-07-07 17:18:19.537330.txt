@@ -1,0 +1,4 @@
+existing column info: <_csv.reader object at 0x1073b3610> 
+Manufacture name: Dongguan Ruili Fashion Co., Ltd.: 
+On page 1... 
+next_button is like: <selenium.webdriver.remote.webelement.WebElement (session="16dc960b49302caca9af143b2c23c5c1", element="f.C64EAEB626795F29799F89593742156E.d.3142AB2A60603DF5DBC059D53FC9D6F0.e.46")>

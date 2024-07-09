@@ -1,0 +1,127 @@
+existing column info: <_csv.reader object at 0x105ee02e0> 
+Manufacture name: Shijiazhuang Maikesi Brace Technology Co., Ltd.: 
+On page 1... 
+next_button is like: <selenium.webdriver.remote.webelement.WebElement (session="2b87a51c58e82721a46cbc2fc0383d02", element="f.EA33E4D5C680A6A98A371CF01F2F61E6.d.69A5667B64C0B04150B170BE97A49BB6.e.88")>product_1 name: New design 5mm 7mm 10mm 13mm Body building Exercises Training Weight lifting Belt for Men Woman
+product_1 img link: -1
+product_1 price: $25.00 - $29.00
+product_1 shipping: Shipping to be negotiated
+product_1 MOQ: 100 piec 
+ 
+product_2 name: Professional buckle lever type workout fitness safety training back gym powerlifting weight lifting belt
+product_2 img link: -1
+product_2 price: $25.00 - $29.00
+product_2 shipping: Shipping to be negotiated
+product_2 MOQ: 100 piec 
+ 
+product_3 name: Hot Selling Sports breathable cycling Safety Basketball Football Leg Brace Support Calf Protector Compression Sleeve  running
+product_3 img link: -1
+product_3 price: $1.15 - $1.50
+product_3 shipping: Shipping to be negotiated
+product_3 MOQ: 50 piece 
+ 
+product_4 name: Top Selling New Adjustable Breathable Back Posture Corrector for Back Pains Hunchback
+product_4 img link: -1
+product_4 price: $6.25 - $7.20
+product_4 shipping: Shipping: $2.32/piece
+product_4 MOQ: 100 piec 
+ 
+Getting image high quality adjustable elbow protection gym weight-lifting flexible elbow supports ... 
+success! 
+ 
+product_5 name: high quality adjustable elbow protection gym weight-lifting flexible elbow supports
+product_5 img link: https://s.alicdn.com/@sc04/kf/Ha7c2333069f045c59e0368e695ffd198h/high-quality-adjustable-elbow-protection-gym-weight.jpg?hasNWGrade=1
+product_5 price: $2.56 - $3.25
+product_5 shipping: Shipping: $3.11/piece
+product_5 MOQ: 50 piece 
+ 
+Getting image OEM premium thicken elbow sleeves professional sports cubital elbow support braces ... 
+success! 
+ 
+product_6 name: OEM premium thicken elbow sleeves professional sports cubital elbow support braces
+product_6 img link: https://s.alicdn.com/@sc04/kf/H3fff71f2912442fea1593738ceb3c7f0J/OEM-premium-thicken-elbow-sleeves-professional-sports.jpg?hasNWGrade=1
+product_6 price: $2.56 - $3.25
+product_6 shipping: Shipping: $3.11/piece
+product_6 MOQ: 50 piece 
+ 
+Getting image wholesale China straight spine alignment neck support comfortable back shoulder posture corrector ... 
+success! 
+ 
+product_7 name: wholesale China straight spine alignment neck support comfortable back shoulder posture corrector
+product_7 img link: https://s.alicdn.com/@sc04/kf/H2ef22e3ac7b845cf8b7eb3d1c0acc788I/wholesale-China-straight-spine-alignment-neck-support.jpg?hasNWGrade=1
+product_7 price: $1.72 - $1.98
+product_7 shipping: Shipping: $3.11/piece
+product_7 MOQ: 50 piece 
+ 
+Getting image 2024 New styles gym lifting belt self-locking EVA fitness belt deep hard pull protective weight lifting belt ... 
+success! 
+ 
+product_8 name: 2024 New styles gym lifting belt self-locking EVA fitness belt deep hard pull protective weight lifting belt
+product_8 img link: https://s.alicdn.com/@sc04/kf/H8343d2b0c4624cb29c91b0de7513b856A/2024-New-styles-gym-lifting-belt-self.jpg?hasNWGrade=1
+product_8 price: $3.20 - $3.80
+product_8 shipping: Shipping: $3.95/piece
+product_8 MOQ: 50 piece 
+ 
+Getting image Stylish fashion fitness stable upper lumbar protector stable flexible upper back brace ... 
+success! 
+ 
+product_9 name: Stylish fashion fitness stable upper lumbar protector stable flexible upper back brace
+product_9 img link: https://s.alicdn.com/@sc04/kf/Hb7d62677a9cc43f899d11b0a9d4cc09cG/Stylish-fashion-fitness-stable-upper-lumbar-protector.jpg?hasNWGrade=1
+product_9 price: $2.48 - $2.78
+product_9 shipping: Shipping: $3.11/piece
+product_9 MOQ: 50 piece 
+ 
+Getting image Customized breathable nylon upper lumbar protector fitness adjustable Upper Back Brace ... 
+success! 
+ 
+product_10 name: Customized breathable nylon upper lumbar protector fitness adjustable Upper Back Brace
+product_10 img link: https://s.alicdn.com/@sc04/kf/Hf3069e6f1fa24d5e97d94a4864e38e46Y/Customized-breathable-nylon-upper-lumbar-protector-fitness.jpg?hasNWGrade=1
+product_10 price: $2.42 - $2.82
+product_10 shipping: Shipping: $3.11/piece
+product_10 MOQ: 50 piece 
+ 
+product_11 name: Custom Adjustable Stretch Black White Blue Cervical Collar Skin-friendly Soft Neck Support Brace
+product_11 img link: -1
+product_11 price: $1.20 - $1.30
+product_11 shipping: Shipping: $0.53/piece
+product_11 MOQ: 100 piec 
+ 
+product_12 name: Custom Office Chair Universal Adjustable Pain Relief Breathable Sponge Foam Cervical Collar Super Soft Neck Brace Support
+product_12 img link: -1
+product_12 price: $1.20 - $1.30
+product_12 shipping: Shipping: $0.53/piece
+product_12 MOQ: 100 piec 
+ 
+Getting image Wholesale Good Quality Protective Colorful Football legguard Thigh Protector Leg sleeve ... 
+success! 
+ 
+product_13 name: Wholesale Good Quality Protective Colorful Football legguard Thigh Protector Leg sleeve
+product_13 img link: https://s.alicdn.com/@sc04/kf/H434f1b9e9c524d1692eadf893d517f55W/Wholesale-Good-Quality-Protective-Colorful-Football-legguard.jpg?hasNWGrade=1
+product_13 price: $1.30 - $1.90
+product_13 shipping: Shipping: $2.51/piece
+product_13 MOQ: 50 piece 
+ 
+Getting image premium hunchback shoulder pain relief professional durable posture trainer corrector ... 
+success! 
+ 
+product_14 name: premium hunchback shoulder pain relief professional durable posture trainer corrector
+product_14 img link: https://s.alicdn.com/@sc04/kf/Hbdf880d5b0fd436d86b00edf24c7a8adk/premium-hunchback-shoulder-pain-relief-professional-durable.jpg?hasNWGrade=1
+product_14 price: $1.72 - $1.98
+product_14 shipping: Shipping: $3.11/piece
+product_14 MOQ: 50 piece 
+ 
+Getting image Promotional cheap Compression knitting elbow pad durable flexible elbow protector ... 
+success! 
+ 
+product_15 name: Promotional cheap Compression knitting elbow pad durable flexible elbow protector
+product_15 img link: https://s.alicdn.com/@sc04/kf/Habab781c674742e197e475d5c0197497e/Promotional-cheap-Compression-knitting-elbow-pad-durable.jpg?hasNWGrade=1
+product_15 price: $2.80 - $3.40
+product_15 shipping: Shipping: $3.11/pair
+product_15 MOQ: 50 pairs 
+ 
+product_16 name: Pressure Relief Factory Pain Relief Strap Comfortable Orthopedic Spine Soft Adults Working Office Pain Neck Support
+product_16 img link: -1
+product_16 price: $1.20 - $1.30
+product_16 shipping: Shipping: $0.53/piece
+product_16 MOQ: 100 piec 
+ 
+On page 2... 
